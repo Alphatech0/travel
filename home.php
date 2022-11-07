@@ -109,7 +109,7 @@
 
 <section class="home-about">
     <div class="image">
-        <img src="images/R2.jfif" alt="">
+        <img src="images/OIP7.jfif" alt="">
     </div>
     <div class="content">
         <h3>About Us</h3>
@@ -134,7 +134,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/OIP2.jfif" alt="">
+                <img src="images/R2.jfif" alt="">
             </div>
             <div class="content">
                 <h3>adventure & tour</h3>

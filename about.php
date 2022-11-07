@@ -45,7 +45,7 @@
 <section class="about">
 
 <div class="image">
-    <img src="images/OIP7.jfif" alt="">
+    <img src="images/maxresdefault.jpg" alt="">
 </div>
 
 <div class="content">
